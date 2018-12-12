@@ -1,2 +1,2 @@
-# maryditchen.github.io
-Mary Ditchen's front end web design work
+# Mary Ditchen
+Senior Graphic Designer specializing in front end web design, with expertise in web standards, best practice, and accessibility.
