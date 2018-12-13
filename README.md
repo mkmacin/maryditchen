@@ -1,5 +1,5 @@
 # Mary Ditchen
-Senior Graphic Designer specializing in front end web design, with expertise in web standards, best practice, and accessibility.
+I’m a senior graphic designer specializing in front end web design with expertise in web standards, industry best practice, and accessibility. I have exceptional visual and technical design skills, and nearly a decade of experience using front-end technologies to build rich, interactive web content for Illinois State University.
 
 ## My Project Work
 <ul>
