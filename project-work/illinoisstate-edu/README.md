@@ -9,7 +9,7 @@ I conducted an extensive review of the document structure for all "hub" pages, w
 <p><img src="/images/homepage-html-review-page.png" alt="screenshot of HTML Review of New Homepage Components document in a browser window" />
 <a href="https://docs.google.com/document/d/1a4JAPkPtVBMUCBynuX1OoVEU7hw9maAeFue__PPA-qU/edit?usp=sharing">HTML Review of New Homepage Components document</a></p>
 
-<p></p>
+---
 
 <p><img src="/images/homepage-fourcolcards.png" alt="screenshot of IllinoisState.edu homepage featuring four column cards design pattern" />
 <a href="https://illinoisstate.edu">IllinoisState.edu</a></p>
