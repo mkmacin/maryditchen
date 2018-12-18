@@ -8,7 +8,7 @@ The <a href="/project-work/my-illinoisstate-edu/midterm-grades/">Midterm Grades<
 
 ## Modules
 
-<p><img src="/documents/my-module-planning-doc.jpg" alt="Planning document for My. Illinois. State. modules." /></p>
+<p><img src="/images/my-module-planning-doc.jpg" alt="Planning document for My. Illinois. State. modules." /></p>
 
 * <a href="/project-work/my-illinoisstate-edu/class-schedule/">Class Schedule</a>
 * <a href="/project-work/my-illinoisstate-edu/midterm-grades/">Midterm Grades</a>
