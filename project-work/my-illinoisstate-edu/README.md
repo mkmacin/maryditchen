@@ -14,7 +14,7 @@ Planning document for My modules
 
 ---
 
-Module work:
+*Module work:*
 * <a href="/project-work/my-illinoisstate-edu/class-schedule/">Class Schedule</a>
 * <a href="/project-work/my-illinoisstate-edu/midterm-grades/">Midterm Grades</a>
 
