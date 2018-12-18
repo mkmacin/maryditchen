@@ -13,3 +13,8 @@ Academics dashboard (student view)</p>
 Class Schedule module (student view)</p>
 
 ---
+
+<p><img src="/images/my-class-schedule-instructor.png" alt="My. Illinois. State. Class Schedule instructor screen." />
+Class Schedule module (instructor view)</p>
+
+---
