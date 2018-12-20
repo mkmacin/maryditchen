@@ -4,7 +4,7 @@ For My.IllinoisState I served as the primary front end designer, working collabo
 
 The <a href="/project-work/my-illinoisstate-edu/midterm-grades/">Midterm Grades</a> and Budget Center modules are excellent examples of my ability to produce highly inclusive, standards-compliant front-end interfaces using Vue JS and Fortune PHP to dynamically render rich, interactive web content for various user groups (faculty, students, administrative staff). Though relatively new to both Vue and Fortune, I was able to review the available documentation for each to suss out the front-end functionality I required with limited intervention from the project's web developers, allowing them to focus on backend integrations and infrastructure. Among other things, I became adept at building out template elements, writing directives to conditionally render content, and using interpolation to inject dynamic content onto the page.
 
-<a href="https://code.at.illinoisstate.edu/web-office/my-illinoisstate/">See my code</a>
+<a href="https://code.at.illinoisstate.edu/users/mkmacin/contributed">See my code (login required)</a>
 
 ## Modules
 
